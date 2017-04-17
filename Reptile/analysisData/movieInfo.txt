@@ -5,7 +5,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -13,7 +17,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -21,7 +29,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -29,7 +41,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -37,7 +53,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -45,7 +65,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -53,7 +77,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -61,7 +89,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -69,7 +101,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -77,7 +113,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -85,7 +125,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -93,7 +137,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -101,7 +149,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -109,15 +161,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -125,7 +185,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -133,15 +197,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -149,7 +209,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -157,7 +233,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -165,7 +245,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -173,7 +257,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -181,7 +269,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -189,15 +281,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -205,7 +305,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -213,7 +317,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -221,7 +329,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -229,7 +341,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -237,7 +353,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -245,7 +365,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -253,7 +377,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -261,7 +389,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -269,7 +401,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -277,7 +413,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -285,7 +425,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -293,7 +437,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -301,7 +449,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -309,15 +461,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -325,7 +485,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -333,15 +497,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -349,7 +509,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -357,7 +533,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -365,7 +545,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -373,7 +557,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -381,7 +569,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -389,15 +581,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -405,7 +605,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -413,7 +617,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -421,7 +629,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -429,7 +641,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -437,7 +653,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -445,7 +665,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -453,7 +677,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -461,7 +689,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -469,7 +701,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -477,7 +713,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -485,7 +725,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -493,7 +737,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -501,7 +749,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -509,15 +761,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -525,7 +785,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -533,15 +797,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -549,7 +809,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -557,7 +833,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -565,7 +845,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -573,7 +857,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -581,7 +869,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -589,15 +881,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -605,7 +905,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -613,7 +917,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -621,7 +929,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -629,7 +941,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -637,7 +953,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -645,7 +965,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -653,7 +977,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -661,7 +989,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -669,7 +1001,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -677,7 +1013,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -685,7 +1025,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -693,7 +1037,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -701,7 +1049,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -709,15 +1061,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -725,7 +1085,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -733,15 +1097,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -749,7 +1109,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -757,7 +1133,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -765,7 +1145,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -773,7 +1157,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -781,7 +1169,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -789,15 +1181,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -805,7 +1205,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -813,7 +1217,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -821,7 +1229,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -829,7 +1241,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -837,7 +1253,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -845,7 +1265,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -853,7 +1277,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -861,7 +1289,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -869,7 +1301,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -877,7 +1313,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -885,7 +1325,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -893,7 +1337,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -901,7 +1349,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -909,15 +1361,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -925,7 +1385,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -933,15 +1397,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -949,7 +1409,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -957,7 +1433,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -965,7 +1445,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -973,7 +1457,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -981,7 +1469,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -989,15 +1481,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -1005,7 +1505,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -1013,7 +1517,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -1021,7 +1529,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -1029,7 +1541,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -1037,7 +1553,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -1045,7 +1565,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -1053,7 +1577,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -1061,7 +1589,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -1069,7 +1601,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -1077,7 +1613,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -1085,7 +1625,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -1093,7 +1637,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -1101,7 +1649,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -1109,15 +1661,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -1125,7 +1685,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -1133,15 +1697,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -1149,7 +1709,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -1157,7 +1733,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -1165,7 +1745,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -1173,7 +1757,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -1181,7 +1769,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -1189,15 +1781,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -1205,7 +1805,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -1213,7 +1817,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -1221,7 +1829,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -1229,7 +1841,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -1237,7 +1853,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -1245,7 +1865,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -1253,7 +1877,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -1261,7 +1889,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -1269,7 +1901,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -1277,7 +1913,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -1285,7 +1925,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -1293,7 +1937,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -1301,7 +1949,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -1309,15 +1961,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -1325,7 +1985,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -1333,15 +1997,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -1349,7 +2009,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -1357,7 +2033,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -1365,7 +2045,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -1373,7 +2057,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -1381,7 +2069,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -1389,15 +2081,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -1405,7 +2105,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -1413,7 +2117,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -1421,7 +2129,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -1429,7 +2141,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -1437,7 +2153,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -1445,7 +2165,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -1453,7 +2177,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -1461,7 +2189,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -1469,7 +2201,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -1477,7 +2213,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -1485,7 +2225,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -1493,7 +2237,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -1501,7 +2249,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -1509,15 +2261,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -1525,7 +2285,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -1533,15 +2297,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -1549,7 +2309,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -1557,7 +2333,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -1565,7 +2345,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -1573,7 +2357,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -1581,7 +2369,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -1589,15 +2381,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -1605,7 +2405,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -1613,7 +2417,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -1621,7 +2429,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -1629,7 +2441,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -1637,7 +2453,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -1645,7 +2465,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -1653,7 +2477,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -1661,7 +2489,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -1669,7 +2501,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -1677,7 +2513,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -1685,7 +2525,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -1693,7 +2537,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -1701,7 +2549,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -1709,15 +2561,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -1725,7 +2585,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -1733,15 +2597,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -1749,7 +2609,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -1757,7 +2633,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -1765,7 +2645,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -1773,7 +2657,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -1781,7 +2669,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -1789,15 +2681,23 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   },
   {
     "name": "肖申克的救赎",
@@ -1805,7 +2705,11 @@
     "actor": " 蒂姆·罗宾斯 Tim Robbins /...",
     "time": "1994",
     "nation": "美国",
-    "style": "犯罪 剧情"
+    "style": "犯罪 剧情",
+    "score": "9.6",
+    "quote": "希望让人自由。",
+    "ranking": "1",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480747492.jpg"
   },
   {
     "name": "这个杀手不太冷",
@@ -1813,7 +2717,11 @@
     "actor": " 让·雷诺 Jean Reno / 娜塔丽·波特曼 ...",
     "time": "1994",
     "nation": "法国",
-    "style": "剧情 动作 犯罪"
+    "style": "剧情 动作 犯罪",
+    "score": "9.4",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。",
+    "ranking": "2",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p511118051.jpg"
   },
   {
     "name": "霸王别姬",
@@ -1821,7 +2729,11 @@
     "actor": " 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...",
     "time": "1993",
     "nation": "中国大陆 香港",
-    "style": "剧情 爱情 同性"
+    "style": "剧情 爱情 同性",
+    "score": "9.5",
+    "quote": "风华绝代。",
+    "ranking": "3",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910813120.jpg"
   },
   {
     "name": "阿甘正传",
@@ -1829,7 +2741,11 @@
     "actor": " Tom Hanks / Robin Wright Penn / Gary Sinise",
     "time": "1994",
     "nation": "美国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.4",
+    "quote": "一部美国近现代史。",
+    "ranking": "4",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p510876377.jpg"
   },
   {
     "name": "美丽人生",
@@ -1837,7 +2753,11 @@
     "actor": " 罗伯托·贝尼尼 Roberto Beni...",
     "time": "1997",
     "nation": "意大利",
-    "style": "剧情 喜剧 爱情 战争"
+    "style": "剧情 喜剧 爱情 战争",
+    "score": "9.5",
+    "quote": "最美的谎言。",
+    "ranking": "5",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p510861873.jpg"
   },
   {
     "name": "千与千寻",
@@ -1845,7 +2765,11 @@
     "actor": " 柊瑠美 Rumi Hîragi / 入野自由 Miy...",
     "time": "2001",
     "nation": "日本",
-    "style": "剧情 动画 奇幻"
+    "style": "剧情 动画 奇幻",
+    "score": "9.2",
+    "quote": "最好的宫崎骏，最好的久石让。 ",
+    "ranking": "6",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p1910830216.jpg"
   },
   {
     "name": "辛德勒的名单",
@@ -1853,7 +2777,11 @@
     "actor": " 连姆·尼森 Liam Neeson...",
     "time": "1993",
     "nation": "美国",
-    "style": "剧情 历史 战争"
+    "style": "剧情 历史 战争",
+    "score": "9.4",
+    "quote": "拯救一个人，就是拯救整个世界。",
+    "ranking": "7",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p492406163.jpg"
   },
   {
     "name": "泰坦尼克号",
@@ -1861,7 +2789,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Leonardo...",
     "time": "1997",
     "nation": "美国",
-    "style": "剧情 爱情 灾难"
+    "style": "剧情 爱情 灾难",
+    "score": "9.2",
+    "quote": "失去的才是永恒的。 ",
+    "ranking": "8",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p457760035.jpg"
   },
   {
     "name": "盗梦空间",
@@ -1869,7 +2801,11 @@
     "actor": " 莱昂纳多·迪卡普里奥 Le...",
     "time": "2010",
     "nation": "美国 英国",
-    "style": "剧情 动作 科幻 悬疑 冒险"
+    "style": "剧情 动作 科幻 悬疑 冒险",
+    "score": "9.2",
+    "quote": "诺兰给了我们一场无法盗取的梦。",
+    "ranking": "9",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p513344864.jpg"
   },
   {
     "name": "机器人总动员",
@@ -1877,7 +2813,11 @@
     "actor": " 本·贝尔特 Ben Burtt / 艾丽...",
     "time": "2008",
     "nation": "美国",
-    "style": "喜剧 爱情 科幻 动画 冒险"
+    "style": "喜剧 爱情 科幻 动画 冒险",
+    "score": "9.3",
+    "quote": "小瓦力，大人生。",
+    "ranking": "10",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p449665982.jpg"
   },
   {
     "name": "海上钢琴师",
@@ -1885,7 +2825,11 @@
     "actor": " 蒂姆·罗斯 Tim Roth / ...",
     "time": "1998",
     "nation": "意大利",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ",
+    "ranking": "11",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p511146957.jpg"
   },
   {
     "name": "三傻大闹宝莱坞",
@@ -1893,7 +2837,11 @@
     "actor": " 阿米尔·汗 Aamir Khan / 卡...",
     "time": "2009",
     "nation": "印度",
-    "style": "剧情 喜剧 爱情 歌舞"
+    "style": "剧情 喜剧 爱情 歌舞",
+    "score": "9.1",
+    "quote": "英俊版憨豆，高情商版谢耳朵。",
+    "ranking": "12",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p579729551.jpg"
   },
   {
     "name": "忠犬八公的故事",
@@ -1901,7 +2849,11 @@
     "actor": " 理查·基尔 Richard Ger...",
     "time": "2009",
     "nation": "美国 英国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.2",
+    "quote": "永远都不能忘记你所爱的人。",
+    "ranking": "13",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p524964016.jpg"
   },
   {
     "name": "放牛班的春天",
@@ -1909,15 +2861,23 @@
     "actor": " 杰拉尔·朱诺 Géra...",
     "time": "2004",
     "nation": "法国 瑞士 德国",
-    "style": "剧情 音乐"
+    "style": "剧情 音乐",
+    "score": "9.2",
+    "quote": "天籁一般的童声，是最接近上帝的存在。 ",
+    "ranking": "14",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910824951.jpg"
   },
   {
     "name": "大话西游之大圣娶亲",
     "director": " 刘镇伟 Jeffrey Lau",
     "actor": " 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...",
-    "time": "1995",
+    "time": "2017",
     "nation": "香港 中国大陆",
-    "style": "动作 冒险 喜剧 奇幻 爱情"
+    "style": "动作 冒险 喜剧 奇幻 爱情",
+    "score": "9.1",
+    "quote": "一生所爱。",
+    "ranking": "15",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2455050536.jpg"
   },
   {
     "name": "教父",
@@ -1925,7 +2885,11 @@
     "actor": " 马龙·白兰度 M...",
     "time": "1972",
     "nation": "美国",
-    "style": "剧情 犯罪"
+    "style": "剧情 犯罪",
+    "score": "9.2",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。",
+    "ranking": "16",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910907404.jpg"
   },
   {
     "name": "龙猫",
@@ -1933,15 +2897,11 @@
     "actor": " 日高法子 Noriko Hidaka / 坂本千夏 Ch...",
     "time": "1988",
     "nation": "日本",
-    "style": "动画 奇幻"
-  },
-  {
-    "name": "乱世佳人",
-    "director": " Victor Fleming / George Cukor",
-    "actor": " 克拉克·盖博 Clark Gable / ...",
-    "time": "1939",
-    "nation": "美国",
-    "style": "剧情 爱情 战争"
+    "style": "动画 奇幻",
+    "score": "9.1",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。",
+    "ranking": "17",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910829638.jpg"
   },
   {
     "name": "楚门的世界",
@@ -1949,7 +2909,23 @@
     "actor": " 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...",
     "time": "1998",
     "nation": "美国",
-    "style": "剧情 科幻"
+    "style": "剧情 科幻",
+    "score": "9.0",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。",
+    "ranking": "18",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p480420695.jpg"
+  },
+  {
+    "name": "乱世佳人",
+    "director": " Victor Fleming / George Cukor",
+    "actor": " 克拉克·盖博 Clark Gable / ...",
+    "time": "1939",
+    "nation": "美国",
+    "style": "剧情 爱情 战争",
+    "score": "9.2",
+    "quote": "Tomorrow is another day.",
+    "ranking": "19",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1963126880.jpg"
   },
   {
     "name": "天堂电影院",
@@ -1957,7 +2933,11 @@
     "actor": " 安东娜拉·塔莉 Antonel...",
     "time": "1988",
     "nation": "意大利 法国",
-    "style": "剧情 爱情"
+    "style": "剧情 爱情",
+    "score": "9.1",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。",
+    "ranking": "20",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1910901025.jpg"
   },
   {
     "name": "当幸福来敲门",
@@ -1965,7 +2945,11 @@
     "actor": " 威尔·史密斯 Will Smith ...",
     "time": "2006",
     "nation": "美国",
-    "style": "剧情 传记 家庭"
+    "style": "剧情 传记 家庭",
+    "score": "8.9",
+    "quote": "平民励志片。 ",
+    "ranking": "21",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1312700628.jpg"
   },
   {
     "name": "触不可及",
@@ -1973,7 +2957,11 @@
     "actor": "",
     "time": "2011",
     "nation": "法国",
-    "style": "剧情 喜剧"
+    "style": "剧情 喜剧",
+    "score": "9.1",
+    "quote": "满满温情的高雅喜剧。",
+    "ranking": "22",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1454261925.jpg"
   },
   {
     "name": "搏击俱乐部",
@@ -1981,7 +2969,11 @@
     "actor": " 爱德华·诺顿 Edward Norton / 布拉...",
     "time": "1999",
     "nation": "美国 德国",
-    "style": "剧情 动作 悬疑 惊悚"
+    "style": "剧情 动作 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。",
+    "ranking": "23",
+    "coverUrl": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1910926158.jpg"
   },
   {
     "name": "十二怒汉",
@@ -1989,14 +2981,22 @@
     "actor": " 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...",
     "time": "1957",
     "nation": "美国",
-    "style": "剧情"
+    "style": "剧情",
+    "score": "9.3",
+    "quote": "1957年的理想主义。 ",
+    "ranking": "24",
+    "coverUrl": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2173577632.jpg"
   },
   {
-    "name": "指环王3：王者无敌",
-    "director": " 彼得·杰克逊 Peter Jackson",
-    "actor": " 维果·莫腾森 Viggo Mortensen / ...",
-    "time": "2003",
-    "nation": "美国 新西兰",
-    "style": "剧情 动作 奇幻 冒险"
+    "name": "无间道",
+    "director": " 刘伟强 / 麦兆辉",
+    "actor": " 刘德华 / 梁朝伟 / 黄秋生",
+    "time": "2002",
+    "nation": "香港",
+    "style": "犯罪 悬疑 惊悚",
+    "score": "9.0",
+    "quote": "香港电影史上永不过时的杰作。",
+    "ranking": "25",
+    "coverUrl": "https://img5.doubanio.com/view/movie_poster_cover/ipst/public/p2233971046.jpg"
   }
 ]
