@@ -1,4 +1,4 @@
-var myChart = echarts.init(e('.main'))
+var myChart = echarts.init(document.querySelector('.main'))
 
 option = {
 	title: {
@@ -19,7 +19,7 @@ option = {
         }
     },
     xAxis: {
-        data: ['美国', '法国', '意大利', '中国', '日本', '英国', '德国', '印度', '瑞士','新西兰'],
+        data: ['美国', '中国', '法国', '意大利', '日本', '英国', '德国', '印度', '瑞士','新西兰'],
         axisTick: {show: false},
         axisLine: {show: false},
         axisLabel: {
@@ -49,56 +49,57 @@ option = {
                 opacity: 1
             }
         },
-        data: [140, 40, 30, 20, 20, 20, 20, 10, 10, 10],
+        data: [140, 40, 40, 30, 20, 20, 20, 10, 10, 10],
         z: 10
     }, {
         name: 'glyph',
         type: 'pictorialBar',
         barGap: '-100%',
         symbolPosition: 'end',
-    	symbolSize: [65, 100],
+    	symbolSize: [70, 70],
         symbolOffset: [0, '-100%'],
         data: [{
             value: 140,
 			movieName: '肖申克的救赎',
-			symbol: 'image://./image/美国.jpg',
-			//   	symbolSize: [60, 60],
+			symbol: 'image://./image/美国.png',
+			// symbolSize: [80, 60],
         }, {
             value: 40,
-            symbol: 'image://./image/法国.jpg',
-            // symbolSize: [50, 60]
+            symbol: 'image://./image/中国.png',
+            // symbolSize: [80, 80]
         }, {
-            value: 30,
-            symbol: 'image://./image/意大利.jpg',
-            // symbolSize: [65, 35]
-        }, {
-            value: 20,
-            symbol: 'image://./image/中国.jpg',
+			value: 40,
+            symbol: 'image://./image/法国.png',
             // symbolSize: [50, 30]
+
+        }, {
+			value: 30,
+            symbol: 'image://./image/意大利.png',
+            symbolSize: [70, 50]
         }, {
             value: 20,
-            symbol: 'image://./image/日本.jpg',
-            // symbolSize: [50, 35]
+            symbol: 'image://./image/日本.png',
+        	// symbolSize: [50, 50]
         }, {
             value: 20,
-            symbol: 'image://./image/盗梦空间-英国.jpg',
-            // symbolSize: [100, 100]
+            symbol: 'image://./image/英国.png',
+            // symbolSize: [60, 60]
         }, {
             value: 20,
-            symbol: 'image://./image/德国.jpg',
-            // symbolSize: [40, 50]
+            symbol: 'image://./image/德国.png',
+            symbolSize: [70, 50]
         }, {
             value: 10,
-            symbol: 'image://./image/印度.jpg',
+            symbol: 'image://./image/印度.png',
+            symbolSize: [70, 50]
+        },{
+            value: 10,
+            symbol: 'image://./image/瑞士.png',
             // symbolSize: [40, 50]
         },{
             value: 10,
-            symbol: 'image://./image/放牛班的春天-瑞士.jpg',
-            // symbolSize: [40, 50]
-        },{
-            value: 10,
-            symbol: 'image://./image/指环王3-王者无敌-新西兰.jpg',
-            // symbolSize: [40, 50]
+            symbol: 'image://./image/新西兰.png',
+            symbolSize: [70, 50]
         }]
     }]
 };
