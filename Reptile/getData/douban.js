@@ -42,7 +42,7 @@ const formatMovie = function(info, infoName) {
 const saveMovies = function(movieInfos) {
     // 将一个保存了所有电影对象的数组转成 JSON 字符串并将其存入文件中
     const fs = require('fs')
-    const pathInfo = 'movieInfo.txt'
+    const pathInfo = '../movieInfo.txt'
     // 第三个参数是 缩进层次
     const sInfo = JSON.stringify(movieInfos, null, 2)
     fs.writeFile(pathInfo, sInfo, function(error){
