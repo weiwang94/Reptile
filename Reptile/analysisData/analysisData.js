@@ -28,7 +28,7 @@ const NationA = []
 
 const fs = require('fs')
 const nation = function(option, callback) {
-	var path = './movieInfo.txt'
+	var path = '../movieInfo.txt'
 	fs.readFile(path, option, function(err, data){
 		if(err!=null) {
 			log('err',err)
